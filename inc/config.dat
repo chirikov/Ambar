@@ -1,0 +1,15 @@
+[program]
+name="Амбар";
+author="Роман Чириков";
+copyright="&copy Роман Чириков, 2004 г.";
+version="2.9";
+
+[dir]
+inc="./inc";
+themes="./themes";
+
+[window]
+title="Программа учёта торговли малого предприятия &quotАмбар&quot";
+
+[mysql]
+db="tovar";
